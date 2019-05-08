@@ -1,0 +1,14 @@
+### 简介
+官网:https:flutter.io
+
+flutter google 跨平台，支持macox / windows / linux / ios / android/ fuchsia
+
+高性能120fps
+
+
+
+### 总体架构
+
+Framework【Material/Cupertino/Widgets/Rendering/Animation/Painting/Gestures/Foundation】
+
+Engine(C++)【Skia/Dart/Text纹理】
